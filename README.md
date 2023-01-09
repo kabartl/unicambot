@@ -1,9 +1,9 @@
 # unicambot
 Bot tweeting out legislative actions of the Nebraska Legislature.
 
-**IMPORTANT: Any publications produced by this bot are copies of electronic reproductions of Legislative proceedings and do not represent the official record of floor actions. The official records are kept by the Clerk of the Legislature (uio@leg.ne.gov, (402) 471-2271).
+**IMPORTANT: Any publications produced by this bot are copies of electronic reproductions of Legislative proceedings and do not represent the official record of floor actions. The official records are kept by the Clerk of the Legislature (uio@leg.ne.gov, (402) 471-2271).**
 
-**This bot is not affilliated with the Clerk of the Legislature, or any division of the Legislative Council.
+**This bot is not affilliated with the Clerk of the Legislature, or any division of the Legislative Council.**
 
 In development, not active. Twitter bot run at twitter.com/NebLegUpdates
 
