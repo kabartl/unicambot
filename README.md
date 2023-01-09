@@ -12,7 +12,9 @@ unicambot should crawl publicly available website(s) or API(s) for the current a
 To my knowledge, the Legislature does not have a publicly available API, so this may get technical.
 
 Development milestones:
+
 Phase 1: In session/Adjournment
+
 This should be relatively easy. The main page of the Legislature (nebraskalegislature.gov) shows if the legislature is in session or if it is adjourned (and until what time). The Legislature convenes on a regular schedule, so the bot could check at certain intervals around typical start times, and push a tweet when the Leg. convenes or adjourns.
 
 Hopefully this can be achieved by the end of the first month of session
